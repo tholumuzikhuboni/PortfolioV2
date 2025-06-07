@@ -1,0 +1,1 @@
+export { ElementAboutPage } from "./ElementAboutPage";
