@@ -1,6 +1,6 @@
 # Portfolio V2
 
-Welcome! This project was built by [Tholumuzi](https://tholumuzi.vercel.app/).
+Welcome! This project was built by [Tholumuzi Kuboni](https://tholumuzi.vercel.app/).
 
 ## Getting started
 
